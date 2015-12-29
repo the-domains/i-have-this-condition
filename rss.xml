@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[I have this condition]]></title>
         <description><![CDATA[I have this condition]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-have-this-condition/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 15:18:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 15:40:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-have-this-condition/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0940976e-82ba-446a-bf22-636df2fb1365.jpg">]]></description>
+            <link>https://thegrid.ai/i-have-this-condition/6b1bfa7f-fd8a-4c3c-84ff-b1b4a83b908b/index.html</link>
+            <guid isPermaLink="false">6b1bfa7f-fd8a-4c3c-84ff-b1b4a83b908b</guid>
+            <pubDate>Tue, 29 Dec 2015 15:39:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I have this condition]]></title>
-            <description><![CDATA[<article><h1>I have this condition</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cc728f9-ca3d-466b-9643-ea36b15da9d8.gif"></article>]]></description>
-            <link>undefinedi-have-this-condition/index.html</link>
+            <description><![CDATA[<article><h1>I have this condition</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc8eb4162fd3632ba5feef52fa2fee88ec662996.gif"></article>]]></description>
+            <link>https://thegrid.ai/i-have-this-condition/i-have-this-condition/index.html</link>
             <guid isPermaLink="false">18dcf323-5b1b-42e7-b935-8f5bf7ceb543</guid>
             <pubDate>Tue, 29 Dec 2015 15:17:59 GMT</pubDate>
         </item>
